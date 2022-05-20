@@ -1,4 +1,5 @@
 # Aplicacion de mi configuracion de la terminal Kitty
+<h3 align="center"><img src="https://i.imgur.com/ZQI2EYz.png" alt="logo" height="100px"></h3>
 
 Clonaremos el repositorio:
 
