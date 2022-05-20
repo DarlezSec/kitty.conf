@@ -6,17 +6,12 @@ Clonaremos el repositorio:
 
 git clone https://github.com/DarlezSec/kitty.conf.git  
 
-
-<details>
-  <summary>Screen recording</summary>
-
-  ![Powerlevel10k Pure Style](
-    https://github.com/DarlezSec/kitty.conf.git)
-</details>
-
 Entraremos a la carpeta con Changue Directory
 
-(  cd kitty.conf )
+
+```zsh
+cd kitty.conf
+```
  
  moveremos los archivos "color.ini" y kitty.conf" a la ruta donde se encuentra nuestro direcotorio de nuestra terminal.
  
