@@ -14,4 +14,4 @@ Entraremos a la carpeta con Changue Directory
 
 # Preview
 
-<h3 aling="center"><img src="https://i.imgur.com/lUrkQBN.png" alt="logo" height="200px"></h3>
+<h3 aling="center"><img src="https://i.imgur.com/lUrkQBN.png" alt="logo" height="400px"></h3>
