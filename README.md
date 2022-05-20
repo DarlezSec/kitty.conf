@@ -14,4 +14,4 @@ Entraremos a la carpeta con Changue Directory
 
 # Preview
 
-<h3 aling="center"><img src="https://i.imgur.com/lUrkQBN.png" alt="logo" height="400px"></h3>
+<h3 aling="center"><img src="https://darlezsec.vercel.app/p/reto-ctf-fusion-corp-nivel-hard-plataforma-tryhackme/fusion_hu2d66c8f8c81d4fc7dcdb209f66031007_499639_1024x0_resize_box_3.png" alt="logo" height="400px"></h3>
