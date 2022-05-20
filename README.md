@@ -14,4 +14,4 @@ Entraremos a la carpeta con Changue Directory
 
 # Preview
 
-<h3 aling="center"<img src="https://i.imgur.com/lUrkQBN.png" alt="neofetch" align="right" height="240px"><
+<h3 aling="center"<img src="https://i.imgur.com/lUrkQBN.png" alt="neofetch" align="right" height="240px">
