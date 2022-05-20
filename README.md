@@ -7,7 +7,7 @@ Clonaremos el repositorio:
 ```zsh
 git clone https://github.com/DarlezSec/kitty.conf.git
 ```
-Entraremos a la carpeta con Changue Directory
+Entraremos a la carpeta con Changue Directory "CD"
 
 ```zsh
 cd kitty.conf
@@ -17,8 +17,8 @@ cd kitty.conf
 
 ```zsh
 mv color.ini kitty.conf /home/samsepi0l/.config/kitty
-```zsh
+```
 
-# Preview
+# Preview de la config
 
-<h3 aling="center"><img src="https://darlezsec.vercel.app/p/reto-ctf-fusion-corp-nivel-hard-plataforma-tryhackme/fusion_hu2d66c8f8c81d4fc7dcdb209f66031007_499639_1024x0_resize_box_3.png" alt="logo" height="400px"></h3>
+<h3 aling="center"><img src="https://darlezsec.vercel.app/p/modificar-y-agregar-valores-a-tu-neofetch/pruebita_hueadb0b0b0ab307ccfd12eae1287b042b_38364_1024x0_resize_box_3.png" alt="logo" height="400px"></h3>
