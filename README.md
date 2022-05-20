@@ -1,20 +1,12 @@
-+++
-author = "D0loresH4ze"
-title = "test"
-date = "2019-03-11"
-description = "Sample article."
-tags = [
-"markdown",
-"css",
-"html",
-"themes",
-]
-categories = [
-"themes",
-"syntax",
-]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
-image = "imagetest.png"
-+++
-# Me gustan las vergotas
+# Aplicacion de mi configuracion de la terminal Kitty
+
+Clonaremos el repositorio:
+
+( git clone https://github.com/DarlezSec/kitty.conf.git )
+  
+Entraremos a la carpeta con Changue Directory
+(  cd kitty.conf )
+ 
+ moveremos los archivos "color.ini" y kitty.conf" a la ruta donde se encuentra nuestro direcotorio de nuestra terminal.
+ 
+( mv color.ini kitty.conf /home/samsepi0l/.config/kitty ) 
