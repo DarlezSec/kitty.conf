@@ -1,4 +1,4 @@
-Clonaremos el repositorio
+##Clonaremos el repositorio
 
 git clone https://github.com/DarlezSec/kitty.conf.git
 cd kitty.conf
