@@ -1,6 +1,6 @@
 # Aplicacion de mi configuracion de la terminal Kitty
 
-<h3 align="center"><img src="https://user-images.githubusercontent.com/53346722/117488729-5e48ff80-af32-11eb-8534-be790bae1355.png" alt="logo" height="200px"></h3>
+<h3 align="center"><img src="https://lh3.googleusercontent.com/EIQsQac2BW6tKO8YXbOFeR_K4NVYM_ZJ1IlbNmHAHGNnwYj-ESNi39OBn3hYUpG48nHhYg=s168" alt="logo" height="200px"></h3>
 
 Clonaremos el repositorio:
 
