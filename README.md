@@ -21,4 +21,4 @@ mv color.ini kitty.conf /home/samsepi0l/.config/kitty
 
 # Preview de la config
 
-<h3 aling="center"><img src="https://darlezsec.vercel.app/p/modificar-y-agregar-valores-a-tu-neofetch/pruebita_hueadb0b0b0ab307ccfd12eae1287b042b_38364_1024x0_resize_box_3.png" alt="logo" height="400px"></h3>
+<h3 aling="center"><img src="https://github.com/DarlezSec/neofetch/blob/main/gnome-shell-screenshot-cd5l1r.png" alt="logo" height="400px"></h3>
