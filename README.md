@@ -21,4 +21,4 @@ mv color.ini kitty.conf /home/samsepi0l/.config/kitty
 
 # Preview de la config
 
-<h3 aling="center"><img src="https://github.com/DarlezSec/neofetch/blob/main/gnome-shell-screenshot-cd5l1r.png" alt="logo" height="400px"></h3>
+<h3 aling="center"><img src="https://raw.githubusercontent.com/DarlezSec/kitty.conf/main/Captura%20de%20pantalla%20de%202022-06-12%2002-04-01.png" alt="logo" height="400px"></h3>
